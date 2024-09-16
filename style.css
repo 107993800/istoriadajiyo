@@ -1,0 +1,15 @@
+html
+
+body {
+  padding: 10px;
+  margin: 50px;
+  font-family: Libre Baskerville;
+}
+
+button {
+  border-radius: 30px;
+  margin: 5px;
+  border-color: #c9c9c9;
+  background-color: white;
+  font-family: Inter;
+}
